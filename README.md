@@ -6,7 +6,7 @@
 
 ```
 # clone repo & enter directory
-npm start # or yarn
+cd dist && npm start # or yarn
 
 ```
 
