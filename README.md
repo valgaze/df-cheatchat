@@ -1,5 +1,14 @@
 # df-cheatchat
 
+### Boot
+
+```sh
+npm start
+
+# specific port
+npm start 5005
+```
+
 [[WORK IN PROGRESS]]
 
 ![image](assets/demo.gif)
